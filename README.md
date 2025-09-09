@@ -113,7 +113,7 @@ It is perfect for:
 
 ## 🛠️ Tools & Libraries
 
-- **SQL Server / T-SQL**  
+- **SQL Server**  
 - **SSMS (SQL Server Management Studio)**  
 - Optional: Power BI / Tableau for visualization  
 
