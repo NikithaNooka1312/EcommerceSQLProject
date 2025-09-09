@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-This project is a **comprehensive eCommerce database system** built with **SQL Server (T-SQL)**.  
+This project is a **comprehensive eCommerce database system** built with **SQL Server**.  
 It simulates a real-world eCommerce platform, covering **database design, data insertion, querying, analytics, and advanced SQL concepts**.  
 
 It is perfect for:
